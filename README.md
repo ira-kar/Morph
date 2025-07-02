@@ -17,3 +17,5 @@ This project demonstrates an approach to optimize standard NLP algorithms for mo
 
 The source code, data, and resources are publicly available on GitHub:
 * **[https://github.com/ira-kar/Morph.git](https://github.com/ira-kar/Morph.git)**
+
+* It should be emphasized that the code published here is a demonstration version. For illustrative purposes, it includes primarily only one type of verb's morphological features and experiments based on them. The full version consists of modules from various projects and is not publicly accessible.
