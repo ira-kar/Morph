@@ -1,4 +1,4 @@
-# A Morphology-Driven Approach to NLP for a Low-Resource Language
+# A Morphology-Driven Approach to NLP for a Low-Resource, Highly Complex Language
 
 This repository contains the code for the paper "A Morphology-Driven Approach to NLP for a Low-Resource, Highly Complex Language."
 
